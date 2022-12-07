@@ -1,0 +1,10 @@
+.presentation{
+    display: flex;
+    flex-direction: row;
+}
+
+#boutonBio{
+    position: relative;
+    right: -135px;
+    top: -40px;
+}
